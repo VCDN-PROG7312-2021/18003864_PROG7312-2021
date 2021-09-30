@@ -1,0 +1,11 @@
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\bin\Debug\Prog3B_Task1_DeweyDecimalGame.exe.config
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\bin\Debug\Prog3B_Task1_DeweyDecimalGame.exe
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\bin\Debug\Prog3B_Task1_DeweyDecimalGame.pdb
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.csproj.AssemblyReference.cache
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.Main.resources
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.Properties.Resources.resources
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.ReplaceBooks.resources
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.csproj.GenerateResource.cache
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.csproj.CoreCompileInputs.cache
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.exe
+C:\Users\Ariya\source\repos\Prog3B_Task1_DeweyDecimalGame\Prog3B_Task1_DeweyDecimalGame\obj\Debug\Prog3B_Task1_DeweyDecimalGame.pdb
